@@ -1,1 +1,0 @@
-# Sum-of-100-odd-numbers-using-Python
